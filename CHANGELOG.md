@@ -7,10 +7,16 @@
 **Implemented enhancements:**
 
 - \[first-package\] enhancement!! [\#27](https://github.com/kpicaza/monorepo-test/issues/27)
+- \[first-package\] debug event [\#43](https://github.com/kpicaza/monorepo-test/pull/43)
+- \[first-package\] debug event on split action [\#41](https://github.com/kpicaza/monorepo-test/pull/41)
+- \[first-package\] mix changelog and split actions [\#40](https://github.com/kpicaza/monorepo-test/pull/40)
+- \[first-package\] try passing pusher by artifact [\#39](https://github.com/kpicaza/monorepo-test/pull/39)
+- \[first-package\] change split action hook [\#38](https://github.com/kpicaza/monorepo-test/pull/38)
 - \[first-package\] Fix repository name and try without double quotes [\#28](https://github.com/kpicaza/monorepo-test/pull/28)
 
 **Fixed bugs:**
 
+- \[first-package\] update changelog commit message [\#37](https://github.com/kpicaza/monorepo-test/pull/37)
 - \[\#35\]\[first-package\] Fix filtered CHANGELOG.md path [\#34](https://github.com/kpicaza/monorepo-test/pull/34)
 
 ## [v0.2.17](https://github.com/kpicaza/monorepo-test/tree/v0.2.17) (2021-07-01)
